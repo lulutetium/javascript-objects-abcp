@@ -1,5 +1,5 @@
 var playlist = {
-  SPK: "Metal Dance"
+  Slowdive: "Metal Dance"
 }
 
 function updatePlaylist(playlist, artistName, songTitle){
